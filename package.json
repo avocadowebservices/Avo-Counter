@@ -1,0 +1,34 @@
+{
+  "name": "avo-counter",
+  "version": "1.0.0",
+  "description": "WordPress plugin that tracks page visits and displays last update information with clean metrics",
+  "main": "avo-counter.php",
+  "author": "AvocadoWeb Services",
+  "author_url": "https://avocadoweb.net",
+  "plugin_url": "https://github.com/AvocadoWeb/avo-counter",
+  "license": "GPL2",
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "page-counter",
+    "visitor-tracking",
+    "page-views",
+    "analytics"
+  ],
+  "homepage": "https://github.com/AvocadoWeb/avo-counter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AvocadoWeb/avo-counter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AvocadoWeb/avo-counter/issues"
+  },
+  "engines": {
+    "wordpress": ">=5.0",
+    "php": ">=7.2"
+  },
+  "requires": {
+    "wordpress": "5.0+",
+    "php": "7.2+"
+  }
+}
