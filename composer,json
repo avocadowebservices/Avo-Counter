@@ -1,0 +1,27 @@
+{
+  "name": "avocadoweb/avo-counter",
+  "description": "WordPress plugin that tracks page visits and displays last update information",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "AvocadoWeb Services",
+      "email": "info@avocadoweb.net",
+      "homepage": "https://avocadoweb.net"
+    }
+  ],
+  "homepage": "https://github.com/AvocadoWeb/avo-counter",
+  "require": {
+    "php": ">=7.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.0"
+  },
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "page-counter",
+    "visitor-tracking",
+    "page-views"
+  ]
+}
