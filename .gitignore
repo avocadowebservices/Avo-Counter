@@ -1,0 +1,33 @@
+# PHP
+vendor/
+composer.lock
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+
+# NPM
+node_modules/
+package-lock.json
+yarn.lock
+
+# WordPress
+wp-*
+*.zip
+
+# Testing
+/tests/coverage/
+.phpunit.result.cache
+
+# Environment
+.env
+.env.local
